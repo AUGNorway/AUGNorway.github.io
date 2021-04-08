@@ -1,5 +1,7 @@
 main:
   - title: "Events"
-    url: /events/
+    url: https://www.meetup.com/Azure-User-Group-Norway/
+  - title: "Call For Papers"
+    url: https://sessionize.com/augnorway2021
   - title: "About"
     url: /about/
