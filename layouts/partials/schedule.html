@@ -1,41 +1,7 @@
-<h2 class="section-title">{{ .titles.schedule }}</h2>
+<h2 class="section-title">Scheduled events</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+<p>Below you will find our next scheduled events and speakers. If nothing is listed we are working behind the scenes to bring you our next event. Remember all attendees need to sign up through <a href="https://www.meetup.com/Azure-User-Group-Norway/" target="_blank">meetup.com</a></p>
+
 <div class="schedule-tbl">
-  <table>
-    <thead>
-      <tr>
-        <th class="schedule-time">Time</th>
-        <th class="schedule-slot">Slot</th>
-        <th class="schedule-description">Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      {{ range $slot := .schedule }}
-        {{ if ne .presentation nil }}
-          <tr>
-            <td class="schedule-time">{{ .presentation.time }}</td>
-            <td class="schedule-slot">
-            {{ with .photo }}
-              <span class="speaker-photo">
-                <img class="photo" src="{{ . }}" alt="{{ $slot.name }}">
-              </span>
-            {{ end }}
-
-              {{ .presentation.title }}
-              <span class="speakers-company">{{ .company }}</span>
-            </td>
-            <td class="schedule-description">{{ .presentation.description }}</td>
-          </tr>
-        {{ else }}
-          <tr class="schedule-other">
-            <td class="schedule-time">{{ .time }}</td>
-            <td class="schedule-slot">{{ .name }}</td>
-            <td class="schedule-description">-</td>
-          </tr>
-        {{ end }}
-      {{ end }}
-    </tbody>
-  </table>
+  <script type="text/javascript" src="https://sessionize.com/api/v2/yp8v2ppi/view/GridSmart"></script>
 </div>

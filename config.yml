@@ -18,7 +18,7 @@ params:
     - about
     # - location
     - crew
-    # - schedule
+    - schedule
     # - speakers
     - sponsors
     # - partners
