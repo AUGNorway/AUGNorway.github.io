@@ -1,0 +1,62 @@
+baseurl: "https://example.org/"
+title: "Azure User group Norway"
+canonifyurls: true
+theme: "hugo-conference"
+
+GoogleAnalytics: ""
+
+params:
+  # Conference info
+  Name: "Azure User group Norway"
+  Description: "Norways largest Microsoft Azure community"
+  Images: ["/img/cover.png"]
+  GoogleMapsKey: "my-secret-maps-key"
+
+  # Active sections on the website to deactivate comment out with '#'
+  # you can also change order here and it will reflect on page
+  Sections:
+    - about
+    # - location
+    - crew
+    # - schedule
+    # - speakers
+    - sponsors
+    # - partners
+    # - contact
+
+  # Titles which you can translate to other languages
+  Titles:
+    about: "About Azure user group Norway"
+    # location: "Location"
+    crew: "Crew"
+    schedule: "Schedule"
+    sponsors: "Sponsors"
+    # partners: "Partners"
+    # contact: "Contact"
+
+  # List of Sponsors
+  Sponsors:
+    - name: "Microsoft Norway"
+      logo: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31"
+      url: "http://microsoft.no"
+
+
+  Crew:
+    - name: "Jan Vidar Elven"
+      photo: "https://mvp.microsoft.com/en-us/PublicProfile/Photo/5001872"
+      bio: "MVP Enterprise Mobility and Cloud and Datacenter Architect with over 20 years’ experience inside infrastructure and systems management. I mainly work with Cloud and Datacenter Management, specializing in Azure, System Center, Service Management, Operations Management, Identity Management, Enterprise Mobility and Automation Cross On-Premises and Azure environments."
+      company: "Evidi"
+      title: "MVP Security"
+      link: "http://github.com/billy95"
+    - name: "Martin Ehrnst"
+      photo: "https://vipps.no/media/images/ACDC_Martin_Ehrnst.max-400x500.jpg"
+      bio: "With almost 20 years in the industry I have learned so much from the community. And it's just fair I do exactly the same as the one before me."
+      company: "Vipps MobilePay"
+      title: "MVP Azure"
+      link: "http://twitter.com/ehrnst"
+    - name: "Anders Eide"
+      photo: "https://assets.kpmg/is/image/kpmg/anders-eide-bredde:cq5dam.web.424.424"
+      bio: "The one thing I love most about my profession is to see how organizations have a positive and exiting change after having been introduced to modern, cloud driven solutions built solely to help innovate, improve and achieve goals."
+      company: "KPMG Norway"
+      title: "MVP Azure"
+      link: "https://www.linkedin.com/in/anderseide/"
