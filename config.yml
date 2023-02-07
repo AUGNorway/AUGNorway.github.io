@@ -1,4 +1,4 @@
-baseurl: "https://example.org/"
+baseurl: "https://AUGNorway.github.io"
 title: "Azure User group Norway"
 canonifyurls: true
 theme: "hugo-conference"
