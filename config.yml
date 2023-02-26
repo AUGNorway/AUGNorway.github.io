@@ -28,8 +28,8 @@ params:
   Titles:
     about: "About Azure user group Norway"
     # location: "Location"
-    crew: "Crew"
     schedule: "Schedule"
+    crew: "Crew"
     sponsors: "Sponsors"
     # partners: "Partners"
     # contact: "Contact"
@@ -47,7 +47,7 @@ params:
       bio: "MVP Enterprise Mobility and Cloud and Datacenter Architect with over 20 years’ experience inside infrastructure and systems management. I mainly work with Cloud and Datacenter Management, specializing in Azure, System Center, Service Management, Operations Management, Identity Management, Enterprise Mobility and Automation Cross On-Premises and Azure environments."
       company: "Evidi"
       title: "MVP Security"
-      link: "http://github.com/billy95"
+      link: "https://www.linkedin.com/in/janvidarelven/"
     - name: "Martin Ehrnst"
       photo: "https://vipps.no/media/images/ACDC_Martin_Ehrnst.max-400x500.jpg"
       bio: "With almost 20 years in the industry I have learned so much from the community. And it's just fair I do exactly the same as the one before me."
