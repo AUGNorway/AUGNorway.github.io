@@ -43,14 +43,14 @@ params:
 
   Crew:
     - name: "Jan Vidar Elven"
-      photo: "https://mvp.microsoft.com/en-us/PublicProfile/Photo/5001872"
-      bio: "MVP Enterprise Mobility and Cloud and Datacenter Architect with over 20 years’ experience inside infrastructure and systems management. I mainly work with Cloud and Datacenter Management, specializing in Azure, System Center, Service Management, Operations Management, Identity Management, Enterprise Mobility and Automation Cross On-Premises and Azure environments."
+      photo: "https://cache.sessionize.com/image/9ffe-400o400o2-PHAvpJ1MmsrLgSvGAvQpLa.jpg"
+      bio: "MVP Enterprise Mobility and Cloud and Datacenter Architect with over 20 years experience inside infrastructure and systems management. I mainly work with Cloud and Datacenter Management, specializing in Azure, System Center, Service Management, Operations Management, Identity Management, Enterprise Mobility and Automation Cross On-Premises and Azure environments."
       company: "Evidi"
       title: "MVP Security"
       link: "https://www.linkedin.com/in/janvidarelven/"
     - name: "Martin Ehrnst"
       photo: "https://vipps.no/media/images/ACDC_Martin_Ehrnst.max-400x500.jpg"
-      bio: "With almost 20 years in the industry I have learned so much from the community. And it's just fair I do exactly the same as the one before me."
+      bio: "With almost 20 years in the industry I have learned so much from the community. And it's just fair I do exactly the same as the ones before me."
       company: "Vipps MobilePay"
       title: "MVP Azure"
       link: "http://twitter.com/ehrnst"
