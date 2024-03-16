@@ -51,7 +51,7 @@ params:
     - name: "Martin Ehrnst"
       photo: "https://vipps.no/media/images/ACDC_Martin_Ehrnst.max-400x500.jpg"
       bio: "With almost 20 years in the industry I have learned so much from the community. And it's just fair I do exactly the same as the ones before me."
-      company: "Vipps MobilePay"
+      company: "Simplifai"
       title: "MVP Azure"
       link: "http://twitter.com/ehrnst"
     - name: "Anders Eide"
