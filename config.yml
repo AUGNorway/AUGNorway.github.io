@@ -3,8 +3,6 @@ title: "Azure User group Norway"
 canonifyurls: true
 theme: "hugo-conference"
 
-GoogleAnalytics: ""
-
 params:
   # Conference info
   Name: "Azure User group Norway"
