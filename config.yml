@@ -7,7 +7,7 @@ params:
   # Conference info
   Name: "Azure User group Norway"
   Description: "Norways largest Microsoft Azure community"
-  Images: ["/img/cover.png"]
+  Images: ["/img/augnweb.png"]
   GoogleMapsKey: "my-secret-maps-key"
 
   # Active sections on the website to deactivate comment out with '#'
@@ -55,6 +55,6 @@ params:
     - name: "Anders Eide"
       photo: "https://assets.kpmg/is/image/kpmg/anders-eide-bredde:cq5dam.web.424.424"
       bio: "The one thing I love most about my profession is to see how organizations have a positive and exiting change after having been introduced to modern, cloud driven solutions built solely to help innovate, improve and achieve goals."
-      company: "KPMG Norway"
+      company: "Sopra Steria"
       title: "MVP Azure"
       link: "https://www.linkedin.com/in/anderseide/"
